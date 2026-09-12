@@ -1,0 +1,239 @@
+---
+editor: visual
+
+# Fonte ---------------------------
+fontfamily: baskervald
+fontsize: 12pt
+
+# Formato
+format:
+  html:
+    toc-title: "Índice"
+    toc: true
+    toc-location: right
+    number-depth: 2
+    toc-depth: 2
+    number-sections: true
+    smooth-scroll: true
+  
+  pdf:
+    documentclass: scrreprt
+  
+  docx:
+    reference-doc: custom-reference-UDESC.docx
+---
+
+# Identificação
+
+**Centro:** Centro de Ensino da Região Sul - CERES
+
+**Departamento**: Departamento de Ciências Biológicas - DCB
+
+**Curso:** Graduação em Ciências Biológicas - BIO-BIC - Opção: Biodiversidade e Conservação
+
+**Disciplina:** Comportamento de Insetos - Optativa
+
+**Código:** CB2413.
+
+**Carga horária:** 36h (2 créditos)
+
+**N° aulas:** 36 aulas
+
+**Período letivo:** 2026.2
+
+**Professor:** [Guido Grimaldi](https://id.udesc.br/IdUdesc/Index)
+
+**Pesquisador:** [Dr. Guido G. Grimaldi](https://github.com/)
+
+**Contato:** guido.grimaldi\@udesc.br
+
+# Ementa
+
+Bases do comportamento animal. Aprendizagem e Memória nos insetos. Padrões de comportamento dos insetos. Orientação nos insetos. Comunicação nos insetos. Comportamento reprodutivo e seleção sexual nos insetos. Comportamento alimentar. Defesa e territorialidade. Comportamento Social no Insetos
+
+# Objetivo Geral
+
+Compreender os mecanismos proximais e evolutivos que determinam o comportamento de insetos, relacionando-os aos processos processos ecológicos, evolutivos e ambientais.
+
+# Objetivos específicos
+
+- Compreender os fundamentos do comportamento animal
+
+- Estudar diferentes formas de comunicação em insetos
+
+- Compreender os mecanismos de defesa e territoriedade
+
+# Conteúdo Programático
+
+Unidade I - Introdução ao Comportamento Animal
+
+- Aula 1 - O que é comportamento?
+
+  - Conceitos de comportamento.
+
+  - Comportamento como fenótipo.
+
+  - Comportamento e interação organismo–ambiente.
+
+  - O que pode e o que não pode ser observado diretamente.
+
+  - Exemplos de comportamentos simples e complexos.
+
+- Aula 2 - Por que estudar comportamento?
+
+  - Importância biológica do comportamento.
+  - Comportamento, sobrevivência e reprodução.
+  - Comportamento e ecologia.
+  - Comportamento e evolução.
+
+- Aula 3 - Observando e Explicando o Comportamento
+
+- Aula 2 - Desenvolvimento do Pensamento Etológico
+
+- Naturalistas e história natural.
+
+- Instinto e comportamento inato.
+
+- Darwin e comportamento.
+
+- Lorenz, Tinbergen e von Frisch.
+
+- Surgimento da Etologia.
+
+- Aula 1 - Qual a importância dos insetos para o estudo do comportamento?
+
+Unidade II - Bases do Comportamento Animal
+
+- Aula 3 - Como surge um comportamento?
+
+- Aula 4 - As quatros questões de Tinbergen
+
+Unidade III - Métodos em Ecologia Comportamental
+
+- Aula 5 - Como estudar o comportamento?
+
+- Aula 6 - Construção de etogramas
+
+Unidade IV - Introdução a Ecologia Sensorial
+
+- Aula 7 - Como os insetos adquirem e usam informações?
+
+Unidade V - Princípios da Comunicação Animal
+
+- Aula 8 - Os insetos se comunicam?
+
+Unidade VI - Introdução a Ecologia Visual
+
+- Aula 9 - Como os insetos navegam e se orientam pelo ambiente?
+
+Unidade VII - Evitando Ataques
+
+- Aula 10 - Defesas Primárias X Defesas Secundárias
+
+Unidade VIII - Seminários Temáticos
+
+- Aprendizado e memória em insetos
+
+- Comportamento reprodutivo de insetos
+
+- Comportamento social em insetos
+
+- Comportamento de forrageamento e alimentação em insetos
+
+Unidade XII - Projeto de Pesquisa
+
+# Metodologia
+
+- aulas expositivas dialogadas
+
+- observações de insetos
+
+- construção de etogramas
+
+- atividades experimentais
+
+- análise de vídeos comportamentais
+
+- seminários
+
+- elaboração de projeto de pesquisa
+
+## Avaliação da disciplina
+
+- Avaliação 1: Prática e Participação
+
+  - Inclui:
+
+    - atividade de observação;
+
+    - construção de etogramas;
+
+    - exercício de análise do comportamento;
+
+    - participação em aulas e discussões.
+
+- Avaliação 2: Seminários
+
+  - Critérios:
+
+    - domínio conceitual;
+
+    - qualidade da literatura utilizada;
+
+    - capacidade de relacionar comportamento e ecologia;
+
+    - aplicação das quatro perguntas de Tinbergen;
+
+    - clareza da apresentação.
+
+- Avaliação 3: Projeto de pesquisa
+
+# Sistema de Avaliação
+
+| Avaliação              | Composição de Nota |
+|------------------------|--------------------|
+| Prática e Participação | 30%                |
+| Seminário Temático     | 30%                |
+| Projeto de Pesquisa    | 40%                |
+
+# Plano de Aula
+
+- Imersão Naturalista - 5min
+
+- Reflexão - 2min
+
+- Conceitualização - 10min
+
+- Jogos - 3min
+
+- Questionamento - 2min
+
+- Relembrando conceitos - 5min
+
+- Pensamento matemático - 5m
+
+- Aprofundamenmto téorico -
+
+- Desenvolvimento histórico
+
+# Bibliografia Básica
+
+1.  GULLAN, P. J.; CRANSTON, P. S. Os insetos: um resumo de entomologia. São Paulo: Roca, 2012. 496 p. (e-book UDESC)
+
+2.  ALCOCK, John. Comportamento animal: uma abordagem evolutiva. 9.ed. Porto Alegre: Artmed, 2011. xvii, 606 p. (02 exemplares + e-book UDESC)
+
+3.  WEISSER, W. W.; SIEMANN, E. Insects and Ecosystem Function. Berlin, Heidelberg: Springer Berlin Heidelberg, 2008. XXI, 413 p. 50 illus (Ecological Studies, Analysis and Synthesis, 0070-8356 ; 173). ISBN 9783540740049. (E-book UDESC)\
+
+# Bibliografia Complementar
+
+1.  TRIPLEHORN, Charles A. Estudo dos insetos. 2.ed. São Paulo: Cengage Learning, 2016. 761 p. (04 exemplares)
+
+2.  KLOWDEN, M. J. Physiological Systems in Insects. 2.ed. Academic Press. 2008. https://www-sciencedirectcom.ez74.periodicos.capes.gov.br/book/9780123694935/physiological-systems-in-insects#book-info. (Verificado em Julho/2026)
+
+3.  BERNAYS, E. A.; CHAPMAN, R. E. Host-Plant Selection by Phytophagous Insects. Springer, 1994. https://link springercom.ez74.periodicos.capes.gov.br/book/10.1007/b102508. (Verificado em Julho/2026)
+
+4.  RAFAEL, J. A et al. Insetos do Brasil: Diversidade e Taxonomia. 2 ed. Editora INPA. 2024. https://repositorio.inpa.gov.br/handle/1/40223 (Verificado em Julho/2026)
+
+5.  RYAN, M. F. Insect Chemoreception: fundamental and applied. Springer, 2012. 352 p. https://link-springer\
+
+# Prova de 2° Chamada

@@ -1,0 +1,241 @@
+---
+title: "CB2413-PLANO DE AULA"
+author: "Prof. Dr. Guido G. Grimaldi"
+format:
+  html:
+    toc-title: "Índice"
+    toc: true
+    toc-location: right
+    number-depth: 2
+    toc-depth: 2
+    number-sections: false
+    smooth-scroll: true
+  
+  pdf:
+    documentclass: scrreprt
+  
+  docx:
+    reference-doc: custom-reference-UDESC.docx
+editor: visual
+---
+
+## Observando e explicando o comportamento animal
+
+**Disciplina:** Comportamento de Insetos\
+**Duração:** 2 horas (120 min)\
+**Tema:** Observação, descrição e explicação do comportamento\
+**Recurso central:** Documentário *Microcosmos: Le peuple de l'herbe* (1996)\
+**onceitos centrais:** comportamento, observação, descrição, inferência, explicação proximal, explicação última/funcional e perguntas de Tinbergen.
+
+## Objetivos da aula
+
+Ao final da aula, o estudante deverá ser capaz de:
+
+- distinguir **comportamento** de características que não constituem comportamento;
+
+- distinguir **observação** de **interpretação**;
+
+- descrever um comportamento de forma **objetiva e operacional**;
+
+- diferenciar **explicações proximais** e **últimas/funcionais**;
+
+- reconhecer as **quatro perguntas de Tinbergen**;
+
+- formular hipóteses sobre comportamentos observados;
+
+- identificar quais observações seriam necessárias para testar uma hipótese;
+
+- compreender que observar um comportamento **não é suficiente para determinar sua função**.
+
+## 1° Andamento: Problematização
+
+**Horário:** 08:20-09:10h\
+**Duração:** 0-15'\
+**Recurso didático:** Quadro-negro
+
+Escreva no quadro:
+
+> **“***O que significa observar um comportamento?***”**
+
+Peça que cada estudante escreva individualmente **uma resposta em uma frase**.
+
+Depois faça uma segunda pergunta:
+
+> **“***Se eu vejo besouro carregando uma pelota fecal, o que posso afirmar apenas olhando para ele?”*
+
+Escreva no quadro as resposta individuais.
+
+**Não diga imediatamente se estão certas ou erradas.**
+
+Diga:
+
+> “*Hoje vamos assistir trechos de um documentário para descobrir quanto realmente podemos saber apenas observando.*”
+
+## 2° Andamento: Conceitualização
+
+**Horário:** 08:20-09:10h\
+**Duração:** 15-35'\
+**Recurso didático:** Canva, Kahoot
+
+Antes disso...
+
+> *O que é comportamento?*
+
+Quiz Kahoot:
+
+Definição
+
+Pontos conceituais
+
+> *O comportamento é um fenótipo?*
+
+Revisando conceitos: Fenótipo
+
+Os 4 fenótipos:
+
+- **morfológicas** — tamanho, forma, coloração;
+
+- **fisiológicas** — taxa metabólica, produção hormonal;
+
+- **bioquímicas** — composição e atividade de proteínas e enzimas;
+
+- **comportamentais** — forrageamento, territorialidade, comunicação, escolha de parceiros
+
+Modelando o comportamento, desenvolvimento do pensamento matemático.
+
+## 3° Andamento: Desenvolvimento do Pensamento
+
+**Horário:** 08:20-09:10h\
+**Duração:** 35-50'\
+**Recurso didático:** Canva, Kahoot
+
+Se nescessário, seguir aprofundamento da aula (Consultar gosto da turma)
+
+> O comportamento pode ser herdado?
+
+O Grande Dicotomia (1930-1950), cisilhamento histórico
+
+> O comportamento é inato ou aprendido?
+
+## 4° Andamento: *Microcosmos Le peuple de l'herbe*
+
+**Horário:** 09:10-10:00h\
+**Duração:** 0-50'\
+**Recurso didático:** Documentário
+
+Microcosmos: Le peuple de l'herbe\
+Sinopse: É um aclamado documentário francês de 1996 que explora o mundo secreto dos insetos e pequenos invertebrados ao nível do solo\
+1996 ‧ Documentário/Documentários sobre natureza ‧ 1h 15m
+
+Atividade: Ficha de Observação
+
+Peça que cada estudante escolha **3 comportamentos** observados no documentário.
+
+Descrição da ficha:
+
+| Campo | O estudante deve registrar |
+|----|----|
+| Animal | Identificação, se possível |
+| Contexto | Onde e em que situação ocorre |
+| Comportamento | **Descrição objetiva**, sem interpretação |
+| Estímulo/contexto | O que aconteceu antes? |
+| Consequência | O que aconteceu depois? |
+| Interação | Com indivíduo da mesma espécie, outra espécie ou ambiente? |
+| Hipótese | Qual poderia ser a função? |
+| Tinbergen | Qual vantagem esse comportamento poderia proporcionar? |
+| Evidência | O que no filme sustenta a interpretação? |
+| Grau de certeza | O que precisa ser testado? |
+
+### Exemplo
+
+Imagine a cena do **escaravelho-bosteiro empurrando uma bola** (Slide 27)
+
+**Descrição:**
+
+> *“O indivíduo desloca uma esfera de material pelo solo utilizando as pernas posteriores.”*
+
+**Hipótese funcional:**
+
+> *A bola pode representar um recurso alimentar ou reprodutivo.*
+
+**Pergunta de Tinbergen:**
+
+> **Função:** qual vantagem esse comportamento poderia proporcionar?
+
+## 5° Andamento:
+
+Ao fim, volte à pergunta inicial:
+
+> *“O que significa observar comportamento?”*
+
+Peça aos alunos que agora respondam novamente.
+
+> *Depois de assistir ao filme, vocês mudariam alguma coisa na resposta?”*
+
+Depois faça a pergunta final:
+
+> *“O que o filme nos permitiu observar — e o que ele não nos permitiu concluir?”*
+
+Ensinamento: **observar não é o mesmo que explicar**
+
+> *"observar comportamento cientificamente não é simplesmente olhar e dizer o que achamos que o animal está fazendo."*
+
+Ponha no quadro:
+
+**Observar → descrever → registrar → comparar → formular hipóteses → testar**
+
+E introduzir uma distinção fundamental:
+
+> **Descrição ≠ interpretação**
+
+Por exemplo:
+
+- **Descrição:** “A abelha pousa na flor, introduz a probóscide e permanece por aproximadamente 3 segundos.”
+
+- **Interpretação:** “A abelha está se alimentando do néctar.”
+
+A segunda pode estar correta, mas **é uma inferência**, não uma descrição direta.
+
+Mensagem pra levar pra casa:
+
+> **Observar comportamento é produzir dados; explicar comportamento é formular hipóteses que precisam ser testadas.**
+
+## **6° Andamento: Tribunal do comportamento**
+
+Depois do filme, cada aluno recebe uma cena comportamental.
+
+Cada um precisa defender uma interpretação.
+
+> - O que sabemos?
+>
+> - O que inferimos?
+>
+> - O que precisamos testar?
+
+### Grupo A — **“O que sabemos?”**
+
+Só pode utilizar aquilo que foi **diretamente observado**.
+
+### Grupo B — **“O que podemos inferir?”**
+
+Pode propor hipóteses sobre:
+
+- função;
+
+- mecanismo;
+
+- comunicação;
+
+- aprendizagem;
+
+- defesa;
+
+- reprodução;
+
+- alimentação.
+
+### Grupo C — **“O que ainda não sabemos?”**
+
+Deve identificar quais informações seriam necessárias para testar a hipótese.
+
+Isso transforma o filme em uma pequena **investigação científica**.
