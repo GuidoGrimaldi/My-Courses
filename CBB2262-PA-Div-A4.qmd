@@ -1,0 +1,101 @@
+---
+title: "CB24119 - Plano de Aula"
+subtitle: "UDESC LAGUNA"
+date: 2016-09-14
+author: 
+  name: Prof. Dr. Guido G. Grimaldi
+  email: guido.grimaldi@udesc.br
+format:
+  html:
+    toc-title: "Índice"
+    toc: true
+    toc-location: right
+    number-depth: 2
+    toc-depth: 2
+    number-sections: false
+    smooth-scroll: true
+  
+  pdf:
+    documentclass: scrreprt
+  
+  docx:
+    reference-doc: custom-reference-UDESC.docx
+editor: visual
+---
+
+# Desenvolvimento e Ciclo
+
+**Curso:** Graduação em Ciências Biológicas - BIO-BIV\
+**Disciplina:** Diversidade e Biologia de Insetos\
+**Horário:** 13h30–16h00
+
+## 1° Andamento: Diálogo
+
+**Horário:** 13:30-14:20h\
+**Duração:** 5'\
+**Sala:** Lab. Did. III\
+**Recurso didático:** Roda de conversa.
+
+Reconversa com os alunos da disciplina. Pergunte:
+
+> | *O que vocês querem aprender hoje?*
+> | *O que estão achando?*
+> | *Querem mais conteudo teórico?*
+> | *Querem mais excercício?*
+> | *Onde podemos melhorar?*
+> | *Que quer fazer algo diferente?*
+
+## 2° Andamento: Revisando
+
+**Horário:** 13:30-14:20h\
+**Duração:** 30'\
+**Sala:** Lab. Did. III\
+**Recurso didático:** Caça Conceitos/ Camadas de Cutícula/ Fases do ciclo
+
+1.  **Caça conceitos III**
+
+    **Ecdise:** Etapa final do processo de muda, no qual a cutícula velha é descartada.
+
+    **Exúvia:** A casca da cutícula eliminada no final da muda.
+
+    **Cutícula:** Camada externa do corpo, não celular, secretada pela epiderme, formada por diversas camadas.
+
+    **Apólise:** Separação entre a velha e a nova cutícula, durante o processo de muda. Marca o início da muda.
+
+    **Tegumento:** Cobertura da superfície do corpo. Conjunto que inclui a epiderme mais a cutícula.
+
+    **Instar:** Fase do desenvolvimento do inseto entre duas mudas sucessivas.
+
+2.  **Camadas da cutícula**
+
+    Epicuticula \> Exocuticula \> Endocuticula \> Epiderme \> Membrana Basal
+
+3.  **Ciclo de Vida**
+
+    Adulto (Ovoposição) \> Larva \> Pupa \> Adulto (Ecdise)
+
+## 3° Andamento: Continuação da aula expositiva
+
+**Horário:** 13:30-14:20h\
+**Duração:** 20'\
+**Sala:** 205\
+**Recurso didático:**
+
+A ninfa **não é uma larva**.
+
+Isso pode ser usado para introduzir uma distinção:
+
+> **Ninfa = juvenil semelhante ao adulto.**\
+> **Larva = estágio juvenil morfologicamente distinto do adulto.**
+
+## 4° Andamento: Revisando Antenas
+
+FICHA DE IDENTIFICAÇÃO TAXONÔMICA
+Organismo: 
+Caracteres observados:
+1. 
+2. 
+3. 
+Ordem sugerida: 
+Confiança: moderada
+Justificativa:  

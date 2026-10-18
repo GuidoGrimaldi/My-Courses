@@ -57,11 +57,23 @@ Compreender os mecanismos proximais e evolutivos que determinam o comportamento 
 
 # Objetivos específicos
 
+- Saber distinguir o que é um comportamento
+
 - Compreender os fundamentos do comportamento animal
 
-- Estudar diferentes formas de comunicação em insetos
+- Analisar os diferentes tipos de comportamento
 
-- Compreender os mecanismos de defesa e territoriedade
+- Estudar a comunicação em insetos
+
+- Conhecer os mecanismos de defesa e territorialidade
+
+- Conhecer os comportamentos sociais e reprodutivos de insetos
+
+- Desenvolver habilidade de observação
+
+- Desenvolver habilidades de pesquisa
+
+- Desenvolver habilidade de oratória e apresentação
 
 # Conteúdo Programático
 
@@ -136,7 +148,9 @@ Unidade VIII - Seminários Temáticos
 
 - Comportamento reprodutivo de insetos
 
-- Comportamento social em insetos
+- 
+
+Comportamento social em insetos
 
 - Comportamento de forrageamento e alimentação em insetos
 
@@ -160,7 +174,7 @@ Unidade XII - Projeto de Pesquisa
 
 ## Avaliação da disciplina
 
-- Avaliação 1: Prática e Participação
+- Avaliação Prática: Prática e Participação
 
   - Inclui:
 
@@ -190,11 +204,25 @@ Unidade XII - Projeto de Pesquisa
 
 # Sistema de Avaliação
 
-| Avaliação              | Composição de Nota |
-|------------------------|--------------------|
-| Prática e Participação | 30%                |
-| Seminário Temático     | 30%                |
-| Projeto de Pesquisa    | 40%                |
+Serão utilizados os seguintes instrumentos para avaliação semestral: Avaliação Prática (AP), Seminário Temático (SM) e projeto de Pesquisa Comportamental (PQ).
+
+A Avaliação Prática (AP) consiste na análise comportamental de comportamentos de insetos observados em um documentário.
+
+O Seminário Temático (SM) consiste na apresentação expositiva de um dos temas sorteados entre os discentes.
+
+O projeto de Pesquisa (PQ) consiste na elaboração e execução de um estudo prático comportamental de insetos, o qual deverá ser apresentado por escrito (30%) e também na forma de seminário (20%).
+
+A média final semestral será dada pela seguinte equação: (AP x 0,3) + (SM x 0,2) + (PQ x 0,5)
+
+De acordo com a INSTRUÇÃO NORMATIVA PROEN N.º 006, DE 13 DE JULHO DE 2026, a partir do semestre 2026/2 estarão extintos os exames finais. Dessa forma, a partir desse semestre será considerado aprovado o estudante que obtiver média final semestral igual ou superior a 6,0. Para os discentes que não atingirem essa média, será realizada uma avaliação recuperativa composta por N partes, sendo N o número de instrumentos avaliativos aplicados ao longo do semestre. Cada parte será avaliada separadamente, de 0 a 10, e substituirá a nota do instrumento avaliativo correspondente, quando for maior. O aluno poderá recuperar sua nota em mais de um instrumento simultaneamente. Após a avaliação recuperativa, a média final será recalculada considerando as substituições das notas, quando for o caso.
+
+Caso algum acadêmico regularmente matriculado nessa disciplina deixar de comparecer a qualquer das avaliações nas datas fixadas, poderá solicitar segunda chamada desta avaliação através de requerimento por ele assinado, via sistema de gestão acadêmica (SIGA), ou por representante legal, no prazo de 5 (cinco) dias úteis, contados a partir da data de realização da avaliação.
+
+| Avaliação           | Composição de Nota |
+|---------------------|--------------------|
+| Avaliação Prática   | 30%                |
+| Seminário Temático  | 20%                |
+| Projeto de Pesquisa | 50%                |
 
 # Plano de Aula
 

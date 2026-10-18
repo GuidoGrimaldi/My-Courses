@@ -1,0 +1,296 @@
+---
+editor: visual
+
+# Fonte ---------------------------
+fontfamily: baskervald
+fontsize: 12pt
+
+# Formato
+format:
+  html:
+    toc-title: "Índice"
+    toc: true
+    toc-location: right
+    number-depth: 2
+    toc-depth: 2
+    number-sections: false
+    smooth-scroll: true
+  
+  pdf:
+    documentclass: scrreprt
+  
+  docx:
+    reference-doc: custom-reference-UDESC.docx
+---
+
+# Identificação
+
+**Curso:** Graduação em Ciências Biológicas
+
+**Departamento:** Departamento de Ciências Biológicas - DCB/CERES
+
+**Disciplina:** Taxonomia de insetos adultos (Disciplina Optativa)
+
+**Código:** CB24119.
+
+**Carga horária:** 72h (4 créditos)
+
+**Período letivo:** 2026.2
+
+**Professor:** Dr. Guido De Gregório Grimaldi.
+
+**Contato:** guidogrimaldi\@gmail.com
+
+# Ementa
+
+Métodos e técnicas de coleta de insetos, preservação e embalagem. Métodos e tecnicas de montagem de insetos e rotulagem. Organização de uma coleção entomológica. Identificação de famílias das principais ordens de insetos.
+
+# Justificativa
+
+As coleções entomológicas constituem importantes repositórios da biodiversidade, desenpenhando um papel fundamental na pesquisa científica, ensino, taxonomia, sistemática, biogeografia, monitoramento ambiental e na conservação da biodiversidade. Conhecer técnicas adequadas de coleta, preservação e montagem de espécimes é essencial para que os organismos coletados possam posteriormente ser utilizados como material científico. A disciplina propõe, portanto, uma abordagem teórico-prática, na qual o estudante desenvolverá competências para planejar e executar amostragens utilizando equipamentos entomológicos, preparar e organizar espécimes para uma coleção de referência e identificar famílias das principais ordens de insetos.
+
+# Objetivo Geral
+
+Desenvolver conhecimentos e habilidades para a coleta, preservação, montagem, rotulagem, identificação e organização de espécimes de insetos, com ênfase no reconhecimento das principais famílias das principais ordens de Insecta.
+
+# Objetivos Específicos
+
+Ao final da disciplina, o estudante deverá ser capaz de:
+
+1.  Planejar uma amostragem entomológica de acordo com os objetivos do estudo.
+
+2.  Selecionar métodos de coleta adequados aos diferentes grupos de insetos.
+
+3.  Utilizar corretamente equipamentos e armadilhas entomológicas.
+
+4.  Registrar adequadamente dados de campo.
+
+5.  Realizar a triagem e o acondicionamento inicial dos espécimes.
+
+6.  Selecionar métodos adequados de preservação.
+
+7.  Preparar espécimes para montagem.
+
+8.  Realizar montagem a seco e em meio líquido.
+
+9.  Utilizar adequadamente alfinetes e outros materiais entomológicos.
+
+10. Preparar exemplares pequenos para montagem.
+
+11. Produzir etiquetas padronizadas.
+
+12. Utilizar chaves de identificação.
+
+13. Reconhecer as principais ordens de Insecta.
+
+14. Identificar famílias representativas das principais ordens.
+
+15. Reconhecer caracteres morfológicos diagnósticos.
+
+16. Organizar uma coleção entomológica
+
+17. Compreender princípios básicos de curadoria e manutenção de coleções.
+
+# Conteúdo Programático
+
+Unidade I - Porque estudar os insetos?
+
+- Qual é a importância dos insetos para o estudo da vida?
+
+  - Explicação (Gullan, 2017. Cap 1, item 1.1)
+
+- Cite o nome de famosos entomologistas!
+
+  - Charles Darwin
+
+  - Alfred Wallace
+
+  - Henry Bates
+
+  - Fritz Muller
+
+  - Stephen Forbes
+
+  - Roswell Johnson
+
+  - Theodosius Dobzhansky
+
+  - Jean-Henri Fabre
+
+  - Karl von Frisch
+
+  - William Donald Hamilton
+
+  - Edward O Wilson
+
+- "*Go it Charlie!*" A paixão de Darwin por besouros!
+
+- Por que fazer coleções?
+
+- Importância e a finalidade de uma coleção entomológica
+
+  - Explicação (Embrapa, 2015. Cap 1, coleções)
+
+  - Tbm em (Insetos do Brasil, 2024, Cap 7, "A importância das coleções enotomologicas, 135p)
+
+Unidade II - Morfologia externa
+
+- Plano corporal
+
+- Padrão de segmentação (Tagmas)
+
+- Cabeça
+
+  - Tipo de antenas
+
+  - Tipos de aparelhos bucais
+
+  - Posições do aparelho bucal
+
+  - Olhos compostos e ocelos
+
+- Tórax
+
+  - Tipos de pernas
+
+  - Tipo de asas
+
+- Abdômen e apêndices abdominais
+
+  - Segmentos pré-genitais
+
+    - Estilos
+
+    - Cercos
+
+  - Segmentos genitais
+
+    - Gonoponos
+
+    - Edeago
+
+Unidade III - Identificação taxonômica
+
+- O que é a taxonomia?
+
+- Sistematica: Taxonomia e Filogenia
+
+  - Explicação (Gullan, 2017. Cap 7.)
+
+  - Ver tbm Insetos do Brasil, 2024, Cap 6, termos basicos e conceitos
+
+- Táxon, a unidade taxonómica
+
+- Classificar ou idetitificar, eis a questão?
+
+- O que é um espécie?
+
+- Como nomeamos uma espécie?
+
+  - Princípios básicos de Nomenclatura Zoológica (Insetos do Brasil, 2024, Cap 6, Nomenclatura)
+
+  - Abreviações (Insetos do Brasil, 2024, Cap 6, Emprego de nomes científicos)
+
+- O que fazer quando não souber identificar?
+
+  - Consultando um especialista (Insetos do Brasil, 2024, Cap 6, Identificação)
+
+  - Enviando por correio (Insetos do Brasil, 2024, Cap 7, "A importância das coleções enotomologicas, 135p)
+
+- Principais ordens e familias
+
+Unidade IV - Coleta, Montagem e Preservação
+
+- O que eu preciso para coletar insetos?
+
+- Coleta ativa
+
+  - Pinças e pincéis
+
+  - Frascos com álcool
+
+  - Frascos letais
+
+  - Envelopes entomológicos
+
+  - Aspirador
+
+  - Guarda-chuva entomológico
+
+  - Redes entomológicas e peneiras
+
+  - Armadilhas luminosas
+
+- Coleta pasiva
+
+  - Armadilha Malaise
+
+  - Armadilha suspensa
+
+  - Armadilha tipo janela
+
+  - Armadilha tipo bandeja
+
+  - Armadilha *Pitfall*
+
+  - Armadilha VSR
+
+  - Funil de Berlese-Tullgreen
+
+Unidade IV - Montagem e Preservação
+
+- Preservação via líquida
+
+- Preservação via seca
+
+- Câmera úmida
+
+- Alfinetagem
+
+- Dupla-montagem
+
+- Asas de Lepidópteros
+
+Unidade V - Rotulagem e documentação
+
+- Etiquetagem
+
+  - Etiquetas de procedência
+
+  - Etiquetas de identificação
+
+# Metodologia
+
+# Avaliação
+
+Serão utilizados os seguintes instrumentos para avaliação semestral dos discentes: duas avaliações práticas (A1 e A2) e entrega da coleção entomológica (A3). - Avaliações A1 e A2 = 30% cada; - Avaliação A3 = 40%. A média final semestral será dada pela seguinte equação: (A1 x 0,3) + (A2 x 0,3) + (A3 x 0,4)
+
+De acordo com a INSTRUÇÃO NORMATIVA PROEN N.º 006, DE 13 DE JULHO DE 2026, a partir do semestre 2026/2 estarão extintos os exames finais. Dessa forma, a partir desse semestre será considerado aprovado o estudante que obtiver média final semestral igual ou superior a 6,0. Para os discentes que não atingirem essa média, será realizada uma avaliação recuperativa composta por N partes, sendo N o número de instrumentos avaliativos aplicados ao longo do semestre. Cada parte será avaliada separadamente, de 0 a 10, e substituirá a nota do instrumento avaliativo correspondente, quando for maior. O aluno poderá recuperar sua nota em mais de um instrumento simultaneamente. Após a avaliação recuperativa, a média final será recalculada considerando as substituições das notas, quando for o caso.
+
+Caso algum acadêmico regularmente matriculado nessa disciplina deixar de comparecer a qualquer das avaliações nas datas fixadas, poderá solicitar segunda chamada desta avaliação através de requerimento por ele assinado, via sistema de gestão acadêmica (SIGA), ou por representante legal, no prazo de 5 (cinco) dias úteis, contados a partir da data de realização da avaliação.
+
+# Bibliografia básica
+
+1.  MOURA, Alesandra dos Santos; SANTOS, Tamyris Ramos dos; SILVEIRA, Fabiana de Medeiros. Zoologia e entomologia agrícola. Porto Alegre: SAGAH, 2019. 1 recurso online. ISBN 9788595029286. (E-book UDESC)
+
+2.  MOURA, Alesandra dos Santos et al. Entomologia agrícola. Porto Alegre: SAGAH, 2021. 1 recurso online. ISBN 9786556900032. (E-book UDESC)
+
+3.  GULLAN, P.J.; CRANSTON, P.S. Insetos: fundamentos da entomologia. Rio de Janeiro: Guanabara Kogan, 2017. 460 p. (ebook UDESC)
+
+# Bibliografia complementar
+
+1.  TRIPLEHORN, Charles A. Estudo dos insetos. 2.ed. São Paulo: Cengage Learning, 2015. 761 p ISBN 9788522120802 (broch.). (4 exemplares)
+
+2.  RAFAEL, J. A et al. Insetos do Brasil: Diversidade e Taxonomia. 2 ed. Editora INPA. 2024. https://repositorio.inpa.gov.br/handle/1/40223 (Verificado em Julho/2026)
+
+3.  DA SILVA, C. D. D., FERREIRA, H. R. P. Entomologia: diversidade e evolução dos insetos. Ponta Grossa - PR: Atena, 2022. https://educapes.capes.gov.br/bitstream/capes/698947/1/Entomologia.pdf (EDUCAPES - Verificado em Julho/2026)
+
+4.  QUINTELA, E. D.; BARBOSA, F. R. Manual de identificação de insetos e outros invertebrados pragas do feijoeiro. Embrapa. 2015. https://www.embrapa.br/busca-de-publicacoes/-/publicacao/1031725/manual-de-identificacao-de-insetos-e-outrosinvertebrados-pragas-do-feijoeiro. (Verificado em Julho/2026)
+
+5.  WEISSER, W. W.; SIEMANN, E. Insects and Ecosystem Function. Berlin, Heidelberg: Springer Berlin Heidelberg, 2008. XXI, 413 p. 50 illus (Ecological Studies, Analysis and Synthesis, 0070-8356 ; 173). ISBN 9783540740049. (E-book UDESC)
+
+# Sugestões de Leitura
+
+- CAMARGO, A. J. A. *et al*. Coleções entomológicas: legislação brasileira, coleta, curadoria e taxonomias para as principais ordens. Planaltina, DF: Embrapa Cerrados, 2015. 116p. Disponível em: <https://www.alice.cnptia.embrapa.br/alice/handle/doc/1013586> (Verificado em Setembro/2026)
+
+- RAFAEL, J. A.; MELO, G. A. R.; CARVALHO, C. J. B; CASARI, S. A.; CONSTANTINO, R. (eds). Insetos do Brasil: Diversidade e Taxonomia. Manaus, AM: Editora INPA. 2024. 880p. Disponível em: <https://doi.org/10.61818/56330464> (Verificado em: Setembro/2026)

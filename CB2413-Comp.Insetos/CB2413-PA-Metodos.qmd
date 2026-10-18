@@ -1,0 +1,227 @@
+---
+title: "Universidade Estadual de Santa Catarina"
+subtitle: "CB2413-PLANO DE AULA"
+author: "Prof. Dr. Guido G. Grimaldi"
+format:
+  html:
+    toc-title: "Índice"
+    toc: false
+    toc-location: right
+    number-depth: 2
+    toc-depth: 2
+    number-sections: false
+    smooth-scroll: true
+  
+  pdf:
+    documentclass: scrreprt
+  
+  docx:
+    reference-doc: custom-reference-UDESC.docx
+editor: visual
+---
+
+# Métodos de estudo do comportamento animal
+
+**Disciplina:** Comportamento de Insetos\
+**Curso:** Graduação em Ciências Biológicas - BIO-BIV\
+**Duração:** 2 horas (120 min)\
+**Tema:** Métodos de estudo do comportamento animal\
+**Recurso central:** Aula Prática Experimental, atração de formigas por sardinhas\
+
+## Objetivo Geral
+
+Compreender os principais métodos utilizados para descrever, quantificar e interpretar o comportamento animal, reconhecendo as diferenças entre **observação, descrição, amostragem, experimentação e interpretação**.
+
+## Objetivos da aula
+
+Ao final da aula, o estudante deverá ser capaz de:
+
+- diferenciar observação casual de observação científica;
+- construir e utilizar um etograma;
+- distinguir estado comportamental de evento comportamental;
+- compreender métodos de amostragem comportamental;
+- escolher métodos de registro adequados a diferentes perguntas;
+- diferenciar correlação de causalidade;
+- reconhecer a importância de controles e replicação em experimentos comportamentais;
+- elaborar uma pequena proposta de estudo comportamental.
+
+## 1° Andamento: Introdução
+
+**Horário:** 08:20-08:35h\
+**Duração:** 20'\
+**Local:** Sala 215\
+**Recurso didático:** Vídeo curto de um comportamento de inseto
+
+Hoje vamos estudar Métodos de Estudo do Comportamento Animal
+
+Mas antes de mais nada precisamos sempre para para observar um comportamento.
+
+Então, observe o seguinte comportamento...
+
+> *Vídeo de boboleta se alimentando em uma flor. Aproxima-se uma abelha, ela opta por não pousar na mesma flor e vai embora.*
+
+- O que você está vendo?
+
+- Algo mais acontece?
+
+- E o que a abelha faz?
+
+- Por que ela vai embora?
+
+- Ela teve medo?
+
+Aqui precisamos fazer uma distinção importante entre **interpretação x observação**
+
+INTERPRETAÇÃO
+
+> “*O inseto está com medo.*”
+
+OBSERVAÇÃO
+
+> "*Após a aproximação da flor, a abelha interrompeu seu deslocamento e permaneceu imóvel por alguns segundos, depois continuou a deslocar.”*
+
+A ideia central aqui é:
+
+> *A ciência do comportamento começa transformando conceitos abstratos em variáveis observáveis e mensuráveis.*
+
+Pra isso a gente precisa aprender a **operacionalizar**
+
+> *Operacionalizar = definir exatamente como uma variável será observada ou medida.*
+
+Por exemplo:
+
+| Conceito      | Problema    | Operacionalização                      |
+|---------------|-------------|----------------------------------------|
+| Agressividade | Subjetivo   | Número de ataques                      |
+| Alimentação   | Muito amplo | N° introdução das peças bucais na flor |
+| Exploração    | Abstrato    | Tempo de descolamento                  |
+| Descanso      | Ambíguo     | Ausência de locomoção por \>5s         |
+
+Com isso a gente pode passar para nosso primeiro método de estudo do comportamento animal e um dos conceitos fundamentais da área, o **etograma**
+
+### O que é um etograma?
+
+> *Um catálogo sistematizado das unidades comportamentais de uma espécie, acompanhado de definições operacionais.*
+
+Ele procura responder:
+
+> *“Quais comportamentos estamos considerando?”*
+
+Mas não o *“Por que o animal faz isso?”*
+
+## 2° Andamento: Atração de Formigas por Sardinhas
+
+**Horário:** 08:35-10:00h\
+**Duração:** 50'\
+**Local**: Atrás da UDESC\
+**Recurso didático:** Lata de Sardinha\
+**Materiais:** pequenos pedaços de sardinha, pinça, prato ou placa branca, régua/escala, cronômetro/relógio, celular para filmagem, prancheta, lápis, folhas de registro, palito de dente, corretivo/tinta.
+
+Antes de começar, peça ao aluno para elaborar um etograma provisório.
+
+Por exemplo:
+
+| Código | Comportamento   | Definição                                     |
+|--------|-----------------|-----------------------------------------------|
+| AP     | Aproximação     | Deslocamento em direção à isca                |
+| CT     | Contato         | Antena, mandíbula ou corpo toca a sardinha    |
+| EX     | Exploração      | Deslocamento ao redor da isca sem contato     |
+| AL     | Alimentação     | Manipulação ou ingestão da sardinha           |
+| CA     | Carregamento    | Transporte de fragmento                       |
+| RT     | Retorno         | Formiga deixa a área e posteriormente retorna |
+| INT    | Interação       | Contato direcionado com outra formiga         |
+| LAT    | Latência/Parada | Ausência de deslocamento por ≥5 s             |
+
+Perceba que:
+
+> “*Durante a observação, você pode descobrir que seu etograma está incompleto.*”
+
+Isso é ótimo para ensinar que etogramas podem ser refinados durante estudos exploratórios.
+
+### Atividade 1 — Latência de descoberta
+
+Coloque a sardinha e inicie o cronômetro.
+
+Registre:
+
+Tempo entre a disponibilização da sardinha e a chegada da primeira formiga.
+
+### Atividade 2 — Número de formigas ao longo do tempo
+
+Depois que a primeira formiga chegar, a cada 1 minutos, registrar:
+
+> **Número de formigas presentes na sardinha.**
+
+Uma tabela simples: Tempo x N° Formigas
+
+Duração 15 minutos
+
+### Atividade 3 — Amostragem *Ad libitum*
+
+Registre aquilo que te chama a atenção.
+
+Vantagem: útil para descobrir comportamentos novos.
+
+Problema: altamente suscetível a viés do observador.
+
+Use para melhorar o seu etograma
+
+Duração 3 minutos
+
+### Atividade 4 — Amostragem Animal Focal
+
+Escolha um indivíduo, marque com o corretivo e o palito e acompanhe ele durante um período de 5 minutos e registre os comportamentos dele: frequência; duração de cada comportamento
+
+| Comportamento | Tempo |
+|---------------|------:|
+| Exploração    | 180 s |
+| Alimentação   | 210 s |
+| Interação     |  45 s |
+| Carregamento  |  90 s |
+| Parada        |  75 s |
+
+Depois calcular:
+
+> *Tempo de cada comportamento / tempo total × 100*
+
+Isso introduz o conceito de:
+
+**Orçamento temporal (time budget)**
+
+E permite discutir que:
+
+> *Frequência e duração respondem a perguntas diferentes.*
+
+### Atividade 5 — Amostragem Scan
+
+Em determinados momentos, registra-se o comportamento de todos os indivíduos visíveis.
+
+A cada 1 minutos → registrar o comportamento de todos os indivíduos.
+
+Faça um registro fotografico por minuto, depois, em casa, conttabilize, quantas formigas em contato, quantas ao redor da sardinha
+
+### Atividade 6 — Behaviour sampling
+
+O observador procura um comportamento específico.
+
+Exemplo:
+
+Registrar todas as interações agressivas observadas.
+
+### Atividade 7 - Como transformar o comportamento observado em números?
+
+**Frequência:** Número de ocorrências.
+
+> 17 ataques em 30 minutos.
+
+**Duração:** Quanto tempo o comportamento permanece.
+
+> Alimentação: 42 s.
+
+**Taxa:** Frequência relativa ao tempo.
+
+> 0,57 ataques/minuto.
+
+**Sequência:** Ordem em que os comportamentos ocorrem.
+
+> aproximação → antenação → contato → alimentação → afastamento

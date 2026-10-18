@@ -1,0 +1,328 @@
+---
+title: "CB24119 - Plano de Aula"
+subtitle: "UDESC LAGUNA"
+date: 2016-09-14
+author: 
+  name: Prof. Dr. Guido G. Grimaldi
+  email: guido.grimaldi@udesc.br
+format:
+  html:
+    toc-title: "Índice"
+    toc: true
+    toc-location: right
+    number-depth: 2
+    toc-depth: 2
+    number-sections: false
+    smooth-scroll: true
+  
+  pdf:
+    documentclass: scrreprt
+  
+  docx:
+    reference-doc: custom-reference-UDESC.docx
+editor: visual
+---
+
+# Reprodução & Desenvolvimento
+
+**Curso:** Graduação em Ciências Biológicas - BIO-BIV\
+**Disciplina:** Diversidade e Biologia de Insetos\
+**Horário:** 13h30–16h00
+
+# 1° Andamento
+
+**Horário:** 13:30-14:20h\
+**Duração:** 25'\
+**Sala:** Lab. Didático III
+
+## Desenvolvimento, ontogenia e ciclo de vida
+
+Vamos começar fazendo uma distinção conceitual importante.
+
+### Desenvolvimento
+
+É o conjunto de processos pelos quais o organismo:
+
+- cresce;
+
+- diferencia células e tecidos;
+
+- modifica sua morfologia;
+
+- desenvolve estruturas;
+
+- adquire novas funções;
+
+- modifica seu comportamento e fisiologia.
+
+O desenvolvimento não é apenas crescimento. É uma transformação progressiva do organismo ao longo da ontogenia.
+
+### Ontogenia
+
+É a **história de desenvolvimento de um indivíduo**, desde sua origem até sua morte.
+
+Ou seja **Ontogenia = trajetória de um indivíduo.**
+
+Podemos por em etapas a ontogenia de um indivíduo humano?
+
+**ovo → desenvolvimento embrionário → juvenil → adulto → reprodução → senescência/morte**
+
+### Ciclo de vida
+
+É uma perspectiva mais ampla:
+
+**adultos → reprodução → descendentes → desenvolvimento → adultos**
+
+Portanto:
+
+> **Ciclo de vida = sequência de estágios pela qual uma geração passa e que se repete entre gerações.**
+
+### Pergunta para os alunos
+
+> Se um inseto possui quatro estágios — ovo, larva, pupa e adulto — isso significa que existem quatro indivíduos diferentes?
+>
+> Obviamente não.
+
+São **estágios ontogenéticos diferentes do mesmo organismo**.
+
+# 2° Andamento
+
+**Horário:** 13:30-14:20h\
+**Duração:** 25'\
+**Sala:** Lab. Didático III
+
+## Crescimento, exoesqueleto e ecdise
+
+Dito isso, no campo nos deparamos com essa seguinte estrutura...
+
+\> vídeo da exúvia de cigarra.
+
+Vocês lembram o que é? É uma exúvia!
+
+Ora, o que é uma *Exúvia*?
+
+**É a casca da cutícula eliminada no final da muda.**
+
+E o que é a *Muda?*
+
+### Muda
+
+*Muda:* **É** **processo de troca da cutícula**, que começa com a apólise e termina com a ecdise
+
+Ora, por que? Porque os insetos precisam realizar a muda?
+
+Para crescer os insetos precisam realizar a *Muda*
+
+Então vejam que, ao mesmo tempo que o surgimento de uma **cutícula** possibilitou os Hexapodes ocuparrem o ambiente terrestre, produziu como consequência uma limitação ao crescimento
+
+Por que a cutícula possibilitou o sucesso dos insetos em ambientes terrestres?
+
+Vamos ver em detalhes essa que é uma das principais caracteristicas dos insetos
+
+### Cutícula
+
+Camâda mais externa, não celular, secretada pela epiderme
+
+Se divide em:
+
+- Epicutícula (não quitinoso)
+
+- Protocutícula (quitinoso)
+
+  - Exocutícula
+
+  - Endocutícula
+
+### Epiderme
+
+**Camada unicelular de células glandulares ativas**
+
+**Função:** secretar a cutícula / Também digere a cuticula antiga durante a muda
+
+### Membrana Basal
+
+**Camada não celular**
+
+Formada por um material granular amorfo, fruto da degeneração de células da epiderme.
+
+> Funções do exoesqueleto
+
+| Função | Como funciona? |
+|------------------------------------|------------------------------------|
+| Armadura externa | Proteção contra dano físico |
+| Proteção a orgãos internos | Contra químicos, parasitas, patógenos, predadores. |
+| Fixação muscular | Fornece pontos para ancoragem dos músculos |
+| Previne a perda de água | Reduz a evaporação |
+| Detecção sensorial | Contém estruturas sensoriais |
+| Coloração | Contém pigmentos para camuflagem, warning signals e atração de parceiros |
+
+Portanto..
+
+> **Como crescer dentro de uma estrutura relativamente rígida?**
+
+Atravéz da *Ecdise*
+
+## Ecdise
+
+É a etapa final do processo de muda, no qual a cutícula velha é descartada.
+
+## Apólise
+
+É a separação entre a velha e a nova cutícula, marca o início do processo de muda
+
+Dessa forma, os inseto precisa periodicamente:
+
+1.  formar uma nova cutícula;
+
+2.  separar-se da cutícula antiga;
+
+3.  romper o exoesqueleto;
+
+4.  sair da cutícula antiga;
+
+5.  expandir o corpo;
+
+6.  endurecer a nova cutícula.
+
+7.  A sequência pode ser apresentada:
+
+**crescimento → nova cutícula → ecdise → expansão → esclerotização → crescimento**
+
+### Instar
+
+O intervalo entre duas ecdises é chamado de **instar**.
+
+Por exemplo:
+
+**ovo → 1º instar → ecdise → 2º instar → ecdise → 3º instar...**
+
+> *O crescimento dos insetos é **descontínuo**, associado às ecdises.*
+
+# Próxima aula: Padrões de desenvolvimento
+
+Agora introduza os três padrões clássicos.
+
+## A. Ametabolia
+
+Desenvolvimento sem metamorfose marcada.
+
+**ovo → juvenil → adulto**
+
+O juvenil é semelhante ao adulto, mas:
+
+- menor;
+
+- sexualmente imaturo;
+
+- pode apresentar estruturas reprodutivas incompletas.
+
+Exemplo clássico:
+
+**Zygentoma**, como *Lepisma*.
+
+## B. Hemimetabolia
+
+Também chamada de **metamorfose incompleta** na terminologia tradicional.
+
+**ovo → ninfa → adulto**
+
+A ninfa:
+
+- é semelhante ao adulto;
+
+- cresce por ecdises;
+
+- apresenta desenvolvimento gradual das estruturas;
+
+- geralmente não possui asas plenamente desenvolvidas;
+
+- ainda não é sexualmente madura.
+
+Exemplos:
+
+- Orthoptera — gafanhotos;
+
+- Hemiptera — percevejos;
+
+- Blattodea — baratas;
+
+- Mantodea — louva-a-deus
+
+**Conceito importante**
+
+A ninfa **não é uma larva**.
+
+Isso pode ser usado para introduzir uma distinção:
+
+> **Ninfa = juvenil semelhante ao adulto.**\
+> **Larva = estágio juvenil morfologicamente distinto do adulto.**
+
+# Holometabolia e metamorfose
+
+Aqui está o ponto mais interessante da aula.
+
+## Holometabolia
+
+**ovo → larva → pupa → adulto**
+
+Característica de grupos como:
+
+- Coleoptera;
+
+- Lepidoptera;
+
+- Diptera;
+
+- Hymenoptera.
+
+# Conceitos
+
+Apólise Separação entre a velha e a nova cutícula, marca o início do processo de muda.
+
+Exúvia: A casca da cutícula eliminada no final da muda.
+
+Ecdise: Etapa final do processo de muda, no qual a cutícula velha é descartada.
+
+Ínstar: Fase do desenvolvimento do inseto entre duas mudas sucessivas. O primeiro ínstar ocorre entre a eclosão do ovo e a primeira muda, o segundo ocorre entre a primeira muda e a segunda e assim por diante. Esse termo é usado para se referir a dois conceitos diferentes: 1) o intervalo de tempo entre mudas (equivalente a estádio), e 2) o indiví- duo entre mudas (com sua morfologia, comportamento etc.).
+
+Muda: Processo de troca da cutícula, que começa com a apólise e termina com a ecdise.
+
+Exoesqueleto: Esqueleto externo, duro e derivado da cutícula, ao qual os músculos estão ligados internamente.
+
+# Outros Conceitos
+
+Cladograma: Uma árvore filogenética baseada em características derivadas compartilhadas (sinapomorfias) dos táxons e que ilustra as relações entre ancestral e descendentes
+
+Clado: Um grupo monofilético, compreendendo um ancestral e todos os seus descendentes; um
+
+ramo em uma árvore filogenética.
+
+Filogenético: Relativo à filogenia.
+
+Filogenia: História evolutiva (de um táxon).
+
+Monofilético: Grupo taxonômico que contém todos os descendentes do ancestral comum mais próximo.
+
+Sinapomorfia: Um estado (condição) derivado(a) compartilhado(a) de um caráter .
+
+Táxon: (pl. táxons) Unidade taxonômica (espécie, gênero, família, filo etc.).
+
+# Caça-Conceitos
+
+**Cerco:** Par de apêndices que se originam no 11° segmento abdominal.
+
+**Élitro:** Asa anterior modificada e endurecida de um besouro.
+
+**Metatorax:** Terceiro e último segmento do tórax.
+
+**Pleura:** Região lateral do segmento do corpo de um inseto, entre o tergo e o esterno. A pleural pode conter uma membrana (a membrana pleural) e escleritos (escleritos pleurais ou pleuritos) .
+
+**Rostro:** Prolongamento ou projeção da cabeça em forma de nariz; região frontoclipeal prolongada em forma de bico.
+
+**Tarso:** Artículo da perna localizado entre a tíbia e o pretarso, composto por um a cinco subdivisões denominados tarsômeros.
+
+**Tarsômeros:** Cada uma das subdivisões do tarso.
+
+**Tagma:** Grupo de segmentos que formam uma grande unidade corporal (cabeça, tórax, abdome).
+
+**Tagmose:** Organização do corpo em grandes unidades (cabeça, tórax, abdome).

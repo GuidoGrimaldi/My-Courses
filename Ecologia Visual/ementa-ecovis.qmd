@@ -1,0 +1,91 @@
+---
+title: "ementa-ecovis"
+author: "Dr. Guido Grimaldi"
+
+# References
+biblio-title: "Bibliografia"
+link-citations: true
+link-bibliography: true
+citations-hover: true
+bibliography: references.bib
+
+# Format
+prefer-html: true
+format:
+  pdf:
+    documentclass: scrreprt
+    cite-method: biblatex
+    biblio-style: 'numeric'
+  html:
+    theme: cerulean
+    format-links: true
+editor: visual
+---
+
+## Conteúdo Programático
+
+-   Introdução Antológica
+
+    ```{mermaid}
+
+    timeline
+      title Antologia da visão e cores
+        O "gás"" da visão : 550 AC : Pitágoras <br> Filósofo grego : Ele entendia a visão como um processo ativo onde o olho vê ativamente os objetos. Para isso ele imaginava que algo, uma matéria extremamente fina, uma espécie de gás, devia emergir dos olhos. : Ref livro tal
+        2000 : James : rapaz 
+        1999 : Mileto : Fez isso e aquilo outro
+        1996 : dee : alalala
+    ```
+
+-   Percepção visual?
+
+-   {Teórico\] A natureza da luz
+
+-   \[Teórico\] Origem da visão
+
+-   Evolução das lentes
+
+-   Tipos de olhos dos animais.
+
+-   \[Teórico\] O que faz um bom olho?
+
+-   \[Teórico\] Detecção de Sinal
+
+-   Visão de Cor
+
+-   Fundamento de Radiometria e Fotometria
+
+-   Ambiente visual / Luz no Ambiente
+
+    -   underwater enviroment light
+
+    -   veiling light
+
+    -   luz polarizada
+
+    -   uv light
+
+-   biofluorescence = bioluminescence
+
+-   
+
+## Bibliografia Base
+
+-   @cronin2014
+-   @land2012
+-   @dusenbery1992, Chapther 8.
+-   @lythgoe1979
+-   
+
+## Bibliografia complementar
+
+-   @mccluney2014
+
+-   @johnsen2011
+
+-   @schwartz2004
+
+-   @archer1999
+
+## Artigos
+
+## Referências

@@ -4,7 +4,7 @@ author: "Prof. Dr. Guido G. Grimaldi"
 format:
   html:
     toc-title: "Índice"
-    toc: true
+    toc: false
     toc-location: right
     number-depth: 2
     toc-depth: 2
@@ -19,13 +19,14 @@ format:
 editor: visual
 ---
 
-## Observando e explicando o comportamento animal
+# Observando e explicando o comportamento animal
 
+**Curso:** Graduação em Ciências Biológicas - BIO-BIV\
 **Disciplina:** Comportamento de Insetos\
 **Duração:** 2 horas (120 min)\
 **Tema:** Observação, descrição e explicação do comportamento\
 **Recurso central:** Documentário *Microcosmos: Le peuple de l'herbe* (1996)\
-**onceitos centrais:** comportamento, observação, descrição, inferência, explicação proximal, explicação última/funcional e perguntas de Tinbergen.
+C**onceitos centrais:** comportamento, observação, descrição, inferência, explicação proximal, explicação última/funcional e perguntas de Tinbergen.
 
 ## Objetivos da aula
 
@@ -49,7 +50,7 @@ Ao final da aula, o estudante deverá ser capaz de:
 
 ## 1° Andamento: Problematização
 
-**Horário:** 08:20-09:10h\
+**Horário:** 08:20-08:35h\
 **Duração:** 0-15'\
 **Recurso didático:** Quadro-negro
 
@@ -57,9 +58,9 @@ Escreva no quadro:
 
 > **“***O que significa observar um comportamento?***”**
 
-Peça que cada estudante escreva individualmente **uma resposta em uma frase**.
+Peça que cada estudante (re)escreva individualmente **uma resposta em uma frase**.
 
-Depois faça uma segunda pergunta:
+Mostre o *Slide* do Besouro Rola-Bosta, pergunte:
 
 > **“***Se eu vejo besouro carregando uma pelota fecal, o que posso afirmar apenas olhando para ele?”*
 
@@ -71,61 +72,11 @@ Diga:
 
 > “*Hoje vamos assistir trechos de um documentário para descobrir quanto realmente podemos saber apenas observando.*”
 
-## 2° Andamento: Conceitualização
+## 2° Andamento: *Microcosmos Le peuple de l'herbe*
 
-**Horário:** 08:20-09:10h\
-**Duração:** 15-35'\
-**Recurso didático:** Canva, Kahoot
-
-Antes disso...
-
-> *O que é comportamento?*
-
-Quiz Kahoot:
-
-Definição
-
-Pontos conceituais
-
-> *O comportamento é um fenótipo?*
-
-Revisando conceitos: Fenótipo
-
-Os 4 fenótipos:
-
-- **morfológicas** — tamanho, forma, coloração;
-
-- **fisiológicas** — taxa metabólica, produção hormonal;
-
-- **bioquímicas** — composição e atividade de proteínas e enzimas;
-
-- **comportamentais** — forrageamento, territorialidade, comunicação, escolha de parceiros
-
-Modelando o comportamento, desenvolvimento do pensamento matemático.
-
-## 3° Andamento: Desenvolvimento do Pensamento
-
-**Horário:** 08:20-09:10h\
-**Duração:** 35-50'\
-**Recurso didático:** Canva, Kahoot
-
-Se nescessário, seguir aprofundamento da aula (Consultar gosto da turma)
-
-> O comportamento pode ser herdado?
-
-O Grande Dicotomia (1930-1950), cisilhamento histórico
-
-> O comportamento é inato ou aprendido?
-
-## 4° Andamento: *Microcosmos Le peuple de l'herbe*
-
-**Horário:** 09:10-10:00h\
-**Duração:** 0-50'\
+**Horário:** 08:35-10:00h\
+**Duração:** 0-85'\
 **Recurso didático:** Documentário
-
-Microcosmos: Le peuple de l'herbe\
-Sinopse: É um aclamado documentário francês de 1996 que explora o mundo secreto dos insetos e pequenos invertebrados ao nível do solo\
-1996 ‧ Documentário/Documentários sobre natureza ‧ 1h 15m
 
 Atividade: Ficha de Observação
 
@@ -164,14 +115,6 @@ Imagine a cena do **escaravelho-bosteiro empurrando uma bola** (Slide 27)
 
 ## 5° Andamento:
 
-Ao fim, volte à pergunta inicial:
-
-> *“O que significa observar comportamento?”*
-
-Peça aos alunos que agora respondam novamente.
-
-> *Depois de assistir ao filme, vocês mudariam alguma coisa na resposta?”*
-
 Depois faça a pergunta final:
 
 > *“O que o filme nos permitiu observar — e o que ele não nos permitiu concluir?”*
@@ -188,7 +131,7 @@ E introduzir uma distinção fundamental:
 
 > **Descrição ≠ interpretação**
 
-Por exemplo:
+Ponha o slide da abelha. Por exemplo:
 
 - **Descrição:** “A abelha pousa na flor, introduz a probóscide e permanece por aproximadamente 3 segundos.”
 

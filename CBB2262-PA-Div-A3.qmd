@@ -1,0 +1,262 @@
+---
+title: "CB24119 - Plano de Aula"
+subtitle: "UDESC LAGUNA"
+date: 2016-09-14
+author: 
+  name: Prof. Dr. Guido G. Grimaldi
+  email: guido.grimaldi@udesc.br
+format:
+  html:
+    toc-title: "Índice"
+    toc: true
+    toc-location: right
+    number-depth: 2
+    toc-depth: 2
+    number-sections: false
+    smooth-scroll: true
+  
+  pdf:
+    documentclass: scrreprt
+  
+  docx:
+    reference-doc: custom-reference-UDESC.docx
+editor: visual
+---
+
+# Sistemática
+
+**Curso:** Graduação em Ciências Biológicas - BIO-BIV\
+**Disciplina:** Diversidade e Biologia de Insetos\
+**Horário:** 13h30–16h00
+
+## 1° Andamento: Diálogo
+
+**Horário:** 13:30-14:20h\
+**Duração:** 5'\
+**Sala:** 205\
+**Recurso didático:** Roda de conversa.
+
+Reconversa com os alunos da disciplina. Pergunte:
+
+> | *O que vocês querem aprender hoje?*
+> | *O que estão achando?*
+> | *Querem mais conteudo teórico?*
+> | *Querem mais excercício?*
+> | *Onde podemos melhorar?*
+> | *Que quer fazer algo diferente?*
+
+## 2° Andamento: Revisando
+
+**Horário:** 13:30-14:20h\
+**Duração:** 10'\
+**Sala:** 205\
+**Recurso didático:** Discussão de sala.
+
+Vamos revisar!
+
+> | *O que são tagmas?*
+> | *Quantos tagmas tem os insetos?*
+> | *Quais são os três tagmas?*
+> | *De onde surgem as pernas?*
+> | *Em qual segmento inseri-se as asas anteriores dos insetos?*
+> | *Qual é o componente mais distal de da perna de um inseto?*
+> | *Em qual região encontramos os órgãos reprodutores?*
+
+## 3° Andamento: Revisando Parte das pernas
+
+**Horário:** 13:30-14:20h\
+**Duração:** 20'\
+**Sala:** 205\
+**Recurso didático:** Quadro; Lápis de cor, Material didático - Pernas.
+
+1° no quadro desenhe uma perna genérica.
+
+Liste as diferentes partes separadamente:
+
+> *coxa \> trocanter \> fêmur \> tíbia \> tarso \> garras*
+
+Peça que cada aluno, um por vez, conecte um dos termos a uma das partes da perna por coma linha.
+
+Agora distribua a atividade de colorir as diferentes partes em diferentes pernas
+
+Ao final peçam que criem legendas com as respectivas cores na parte de baixo da folha.
+
+Pergunte:
+
+> "*Por que os insetos têm pernas tão diferentes?*"
+
+A ideia central:
+
+> *A diversidade morfológica está associada à diversidade funcional.*
+
+## 4° Andamento: Revisando Antenas
+
+**Horário:** 13:30-14:20h\
+**Duração:** 15'\
+**Sala:** 205\
+**Recurso didático:** Jogo da memória.
+
+<https://wordwall.net/pt/resource/118231949/insetos-tipos-de-antenas>
+
+## \# Intervalo: 10'
+
+## 5° Andamento: Aula Teórica
+
+**Horário:** 14:20-15:10h\
+**Duração:** 20'\
+**Sala:** Lab.Didático III\
+**Tema:** Sistemática\
+**Recurso didático**: Cladograma impresso, Datashow.
+
+Distribuia os cladogramas ao alunos. Peça que observem por alguns instantes!
+
+Pergunte:
+
+> | *O que viram?*
+> | *Todos já viram um cladograma?*
+> | *Quem contou o número de clados?*
+> | *O que mais lhe chamou atenção?*
+> | *Qual é o táxon mais basal?*
+> | *Onde está a classe INSECTA?*
+> | *O que significa "Apteryghota"? Onde está "Pteryghota"?*
+
+**Termos**
+
+- *Cladograma:* Uma árvore filogenética baseada em características derivadas compartilhadas
+
+  (sinapomorfias) dos táxons e que ilustra as relações entre ancestral e descendentes
+
+  (genealogia).
+
+- *Clado:* Um grupo monofilético, compreendendo um ancestral e todos os seus descendentes; um
+
+  ramo em uma árvore filogenética.
+
+- *Filogenético:* Relativo à filogenia.
+
+- *Filogenia:* História evolutiva (de um táxon).
+
+- *Monofilético:* Grupo taxonômico que contém todos os descendentes do ancestral comum mais próximo.
+
+- *Sinapomorfia:* Um estado (condição) derivado(a) compartilhado(a) de um caráter .
+
+- *Tagma:* Grupo de segmentos que formam uma grande unidade corporal (cabeça, tórax, abdome).
+
+- *Tagmose:* Organização do corpo em grandes unidades (cabeça, tórax, abdome).
+
+- *Táxon:* (pl. táxons) Unidade taxonômica (espécie, gênero, família, filo etc.).
+
+## 6° Andamentos: Termos
+
+**Horário:** 15:10-16:00h\
+**Duração:** 10'\
+**Sala:** Lab. Didático III\
+**Tema:** Identificação das principais ordens\
+**Recurso didático**: Chave de identificação de ordem; Glossário de termos; Coleção Entomológica Didática.
+
+Entregue a chave de identificação.
+
+Peçam para que leiam e circulem os termos não reconhem o significado (tempo: 5').
+
+Depois, pedir para que cada liste um dos termos no quadro.
+
+## 7° Andamentos: Aprendendo a observar!
+
+**Horário:** 15:10-16:00h\
+**Duração:** 50'\
+**Sala:** Lab. Didático III\
+**Tema:** Identificação das principais ordens\
+**Recurso didático**: Chave de identificação de ordem; Glossário de termos; Coleção Entomológica Didática.
+
+**Hora da identificação!**
+
+Cada aluno deve escolher 01 espécieme de morfologias contrastantes.
+
+> *"Primeiro descrevam o que estão vendo. Só depois tentem identificar."*
+
+Por exemplo:
+
+> *"Inseto com corpo compacto, primeiro par de asas modificado em estruturas rígidas, segundo par membranoso, aparelho bucal mastigador..."*
+
+Peça para que descreva em um folhete.
+
+Depois cada um leia em voz alta.
+
+**O que eu devo olhar?**
+
+Localize a:
+
+*Cabeça — Tórax — Abdômen*
+
+Identifique:
+
+*olhos; ocelos; antenas; aparelho bucal; protórax; mesotórax; metatórax; pernas; asas;*
+
+Use a **Folha de Identificar**.
+
+## 8° Andamentos: Identificação das ordem
+
+**Horário:** 15:10-16:00h\
+**Duração:** 50'\
+**Sala:** Didático III\
+**Tema:** Identificação das principais ordens\
+**Recurso didático**: Chave de identificação de ordem; Glossário de termos; Coleção Entomológica Didática.\
+**Materiais necessários**: 6 lupas ou estereomicroscópios; 3 conjuntos de insetos; pinças; placas de Petri; alfinetes entomológicos; isopor; régua ou escala milimétrica;
+
+Cada aluno deve escolher 02 espéciemes de morfologias contrastantes.
+
+Os alunos devem depois revezar os espéciemes, buscando sempre não repetir ordem
+
+Busque a diversidade!
+
+TRABALHO
+
+Tirem a foto do exemplar identificado, renomei a foto, pensem sobre a renomeiação do arquivo em como facilitar a busca *a posteriori*. Que banco de dados eu quero ter?
+
+Com as fotos catalogadas, construa um catálogo! Um documento que contenha a foto do espécime identificado e a descrição dos carácteres tâxonomicos da ordem.
+
+Vale Nota!
+
+Enviar via siga.
+
+A outra dupla deve tentar descobrir:
+
+"Que grupo é esse?"
+
+O objetivo não é testar taxonomia profundamente, mas demonstrar que caracteres morfológicos permitem reconhecer e comparar organismos.
+
+Produto da aula
+
+Eu pediria que cada dupla entregasse uma ficha morfológica de um espécime, contendo:
+
+1.  Desenho esquemático
+
+2.  Identificação dos tagmas
+
+3.  Identificação das principais estruturas
+
+4.  Descrição das antenas
+
+5.  Descrição das pernas
+
+6.  Descrição das asas
+
+7.  Tipo de aparelho bucal, quando possível
+
+8.  Uma hipótese sobre a função de uma especialização morfológica
+
+9.  Identificação taxonômica aproximada, se conseguirem.
+
+Avaliação
+
+Para essa aula, eu faria uma avaliação formativa, não uma prova.
+
+Critério Peso Reconhecimento dos tagmas 20% Reconhecimento das estruturas externas 25% Uso correto da terminologia 20% Capacidade de relacionar forma e função 20% Qualidade da observação/desenho 15% Total 100% Uma observação didática importante
+
+Como são apenas 6 estudantes, eu evitaria uma aula excessivamente expositiva. A grande vantagem de uma turma pequena é poder fazer algo próximo de uma aula de morfologia baseada em investigação:
+
+observar → descrever → comparar → formular hipótese funcional → identificar
+
+E o Microcosmos entra justamente como uma ponte entre a observação em escala cinematográfica e a observação científica do espécime real.
+
+Isso também prepara muito bem os estudantes para a sequência da disciplina: morfologia externa → identificação/classificação → diversidade dos principais grupos de Insecta.

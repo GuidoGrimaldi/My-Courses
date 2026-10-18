@@ -1,0 +1,316 @@
+---
+editor: visual
+
+# Fonte ---------------------------
+fontfamily: baskervald
+fontsize: 12pt
+
+# Formato
+format:
+  html:
+    toc-title: "Índice"
+    toc: true
+    toc-location: right
+    number-depth: 2
+    toc-depth: 2
+    number-sections: false
+    smooth-scroll: true
+  
+  pdf:
+    documentclass: scrreprt
+  
+  docx:
+    reference-doc: custom-reference-UDESC.docx
+---
+
+## Identificação
+
+**Curso:** Graduação em Ciências Biológicas – Opção: Biodiversidade e Conservação
+
+**Departamento:** Departamento de Ciências Biológicas - DCB/CERES
+
+**Disciplina:** Diversidade e Biologia de Insetos.
+
+**Código:** CBB2262.
+
+**Carga horária:** 54h (3 créditos)
+
+**Período letivo:** 2026.2
+
+**N° aulas:** 54 aulas
+
+**Professor:** Dr. Guido De Gregório Grimaldi.
+
+**Contato:** guido.grimaldi\@udesc.br
+
+# Ementa
+
+Importância ecológica dos insetos. Ecologia e diversidade dos insetos. Noções de nomenclatura zoológica e classificação. Morfologia Externa. Anatomia interna e Fisiologia. Reprodução e desenvolvimento. Coleta, montagem e conservação dos insetos.
+
+# Objetivos Geral
+
+Compreender a diversidade, classificação, morfologia, anatomia, fisiologia, reprodução, desenvolvimento e ecologia de insetos, desenvolvendo habilidades básicas para sua coleta, identificação, montagem, conservação e estudo científico.
+
+# Objetivos Específicos
+
+Ao final da disciplina, o estudante deverá ser capaz de:
+
+- Reconhecer os principais caracteres que definem Insecta.
+
+- Compreender a posição dos insetos dentro de Arthropoda.
+
+- Explicar a importância ecológica dos insetos.
+
+- Reconhecer os principais grupos taxonômicos de insetos.
+
+- Utilizar princípios básicos de nomenclatura zoológica.
+
+- Compreender conceitos fundamentais de classificação e sistemática.
+
+- Identificar as principais estruturas da morfologia externa dos insetos.
+
+- Relacionar estruturas morfológicas às suas funções.
+
+- Reconhecer os principais sistemas anatômicos internos.
+
+- Compreender aspectos básicos da fisiologia dos insetos.
+
+- Explicar os principais tipos de reprodução e desenvolvimento.
+
+- Compreender os principais papéis ecológicos dos insetos.
+
+- Utilizar técnicas básicas de coleta entomológica.
+
+- Realizar montagem e conservação de espécimes.
+
+- Utilizar chaves de identificação para reconhecer grupos de insetos.
+
+- Desenvolver uma coleção entomológica didática ou científica básica.
+
+# Conteúdo Programático
+
+## Unidade I - Entomologia, o estudo dos insetos.
+
+- O que são os insetos?
+
+- Caracteristicas diagnósticas
+
+- Diversidade de insetos
+
+- Importância ecológica dos insetos
+
+- Insetos como bioindicadores
+
+- Insetos e sociedade
+
+Unidade VII — Coleta, montagem e conservação
+
+Ética na coleta
+
+Planejamento amostral
+
+Métodos de coleta
+
+Rede entomológica
+
+Armadilhas de queda
+
+Armadilhas luminosas
+
+Armadilhas Malaise
+
+Armadilhas com iscas
+
+Coleta ativa
+
+Eutanásia e preparação
+
+- Preservação permanente
+
+  - Alfinetagem
+
+  - Montagem em cartão
+
+  - Conservação em álcool
+
+- Etiquetagem
+
+- Coleções entomológicas
+
+- Envio por correio
+
+## Unidade II - Diversidade e Classificação
+
+- O que é espécie?
+
+- Taxonomia x Sistemática x Filogenia
+
+- Princípios básicos de Nomenclatura Zoológica
+
+- Principais ordens de insetos
+
+## Unidade III - Morfologia Externa
+
+- Plano corporal
+
+- Padrão de segmentação (Tagmas)
+
+- Cabeça
+
+  - Tipo de antenas
+
+  - Tipos de aparelhos bucais
+
+  - Posições do aparelho bucal
+
+  - Olhos compostos e ocelos
+
+- Tórax
+
+  - Tipos de pernas
+
+  - Tipo de asas
+
+- Abdômen e apêndices abdominais
+
+  - Segmentos pré-genitais
+
+    - Estilos
+
+    - Cercos
+
+  - Segmentos genitais
+
+    - Gonoponos
+
+    - Edeago
+
+## Unidade IV - Anatomia interna e fisiologia
+
+- Tegumento
+
+- Sistema digestório
+
+- Sistema circulatório
+
+- Sistema respiratório
+
+- Sistema excretor
+
+- Sistema nervoso
+
+- Sistema sensorial
+
+- Sistema reprodutor
+
+## Unidade V - Reprodução e Desenvolvimento
+
+- Tipos de reprodução
+
+- Desenvolvimento embrionário
+
+- Eclosão
+
+- Mudas e estágios
+
+- Tipos de desenvolvimento
+
+- Larvas e Pupas
+
+Unidade III - Identificação taxonômica
+
+- O que é a taxonomia?
+
+- Sistematica: Taxonomia e Filogenia
+
+  - Explicação (Gullan, 2017. Cap 7.)
+
+  - Ver tbm Insetos do Brasil, 2024, Cap 6, termos basicos e conceitos
+
+- Táxon, a unidade taxonómica
+
+- Classificar ou idetitificar, eis a questão?
+
+- O que é um espécie?
+
+- Como nomeamos uma espécie?
+
+  - Princípios básicos de Nomenclatura Zoológica (Insetos do Brasil, 2024, Cap 6, Nomenclatura)
+
+  - Abreviações (Insetos do Brasil, 2024, Cap 6, Emprego de nomes científicos)
+
+- O que fazer quando não souber identificar?
+
+  - Consultando um especialista (Insetos do Brasil, 2024, Cap 6, Identificação)
+
+  - Enviando por correio (Insetos do Brasil, 2024, Cap 7, "A importância das coleções enotomologicas, 135p)
+
+- Principais ordens e familias
+
+# Metodologia
+
+# Avaliação
+
+# Bibliografia Básica
+
+1.  RAFAEL, J.A.; et al. Insetos do Brasil: Diversidade e taxonomia. 2 ed. Editora INPA. 2024. Disponível em: [https: //repositorio.inpa.gov.br/handle/1/40223](https:%20//repositorio.inpa.gov.br/handle/1/40223). (Verificado em Julho/2026).
+
+2.  TRIPLEHORN, C.A. Estudo dos insetos. 2.ed. São Paulo: Cengage Learning, 2015. 761 p. (4 exemplares).
+
+3.  BRUSCA, R.C.; BRUSCA, G.J.; SHUSTER, S.M. Invertebrados. 3. ed. Rio de Janeiro: Guanabara Koogan, 2018. xix, 1010 p. (12 exemplares).
+
+# Bibliografia Complementar
+
+1.  GULLAN, P. J.; CRANSTON, P. S. Insetos: fundamentos da entomologia. 5ed. Rio de Janeiro: Guanabara Koogan, 2017. (Ebook UDESC)
+
+2.  PANIZZI, A. R.; PARRA, J. R. P. Bioecologia e nutrição de insetos - base para o manejo integrado de pragas. Brasília: Embrapa, 2009. 1163 p. Disponível em: https://www.alice.cnptia.embrapa.br/alice/handle/doc/1076988. (Verificado em Julho/2026)
+
+3.  FRANSOZO, A.; NEGREIROS-FRANSOZO, M.L. Zoologia dos invertebrados. Rio de Janeiro: Roca, 2016. xi, 661 p. ISBN 9788527728065. (4 exemplares)
+
+4.  MOURA, A.S. et al. Entomologia agrícola. Porto Alegre: SAGAH, 2021. 1 recurso online. ISBN 9786556900032. (E-book UDESC)
+
+5.  CAMARGO, A.J.A. et al. Coleções entomológicas: legislação brasileira, coleta, curadoria e taxonomias para as principais ordens. Brasília, DF: Embrapa Cerrados, 2015. Disponível em: https://www.embrapa.br/cerrados/colecaoentomologica/curadoria. (Verificado em Julho/2026)
+
+## Sugestão de Leitura
+
+# Plano de Aula
+
+### Aula 1 - Entomologia, o estudo dos insetos (slides)
+
+#### Apresentação (20 min)
+
+#### Problematização inicial (30 min)
+
+1.  O que é um inseto?
+
+2.  Porque há tantos deles?
+
+3.  Vocês sabiam que os
+
+4.  Como eu os diferencio dos demais artrópodes?
+
+5.  Insetos são exclusivamente terrestres?
+
+6.  Existe insetos no mar?
+
+7.  Porque estudar os insetos?
+
+8.  Qual é a importância dos insetos?
+
+9.  Papeis ecológicos essenciais.
+
+10. Benefícios x Malefícios
+
+11. Quais podemos considerar como serviços ecossistmicos?
+
+12. Como eu posso utilizar o meu conhecimento de insetos na minha profissão?
+
+13. Qual é a importância dos insetos para o estudo da vida?
+
+14. Porque naturalistas gostam tanto de insetos?
+
+15. Nomei naturalistas-entomologistas
+
+16. Fim
+
+    > "*Os insetos são os verdadeiros engenheiros da natureza. Embora discretos, moldam ecossistemas, impulsionam a evolução das plantas, sustentam cadeias alimentares e revelam princípios fundamentais sobre comportamento, adaptação e evolução. Para os naturalistas, compreender os insetos sempre significou compreender a própria natureza.*"

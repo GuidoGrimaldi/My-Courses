@@ -1,0 +1,328 @@
+---
+title: "CB24119 - Plano de Aula"
+author: "Prof. Dr. Guido G. Grimaldi"
+format:
+  html:
+    toc-title: "Índice"
+    toc: true
+    toc-location: right
+    number-depth: 2
+    toc-depth: 2
+    number-sections: false
+    smooth-scroll: true
+  
+  pdf:
+    documentclass: scrreprt
+  
+  docx:
+    reference-doc: custom-reference-UDESC.docx
+editor: visual
+---
+
+## Morfologia externa de insetos
+
+**Disciplina:** Diversidade e Biologia de Insetos\
+**Tema:** Morfologia externa de Insetos\
+**Horário:** 13h30–16h00\
+**Carga horária:** 2h30min
+
+## Objetivos de aprendizagem
+
+Ao final da aula, os estudantes deverão ser capazes de:
+
+1.  Explicar por que diferentes insetos exigem diferentes métodos de coleta.
+
+2.  Reconhecer os principais métodos **ativos e passivos** de coleta.
+
+3.  Selecionar uma técnica de coleta de acordo com o habitat, comportamento e tamanho do inseto.
+
+4.  Realizar corretamente algumas técnicas básicas de coleta.
+
+5.  Diferenciar métodos de **morte, preservação e armazenamento**.
+
+6.  Preparar corretamente insetos para transporte ao laboratório.
+
+7.  Produzir etiquetas contendo as informações fundamentais da coleta.
+
+8.  Identificar erros que podem comprometer um espécime ou uma amostra entomológica.
+
+## 1° Andamento: Revisando
+
+**Horário:**13:30-14:20h\
+**Duração:**0-10'\
+\
+O que vimos?
+
+- É o maior grupos em n° sp de todos os seres vivos
+
+- 90% de todas as espécies animais são insetos!
+
+- De tudo isso, 40% são de besouros
+
+- A região neotropical é a mais biodiversa em insetos, em especial o continente sulamericano
+
+- Brasil é um dos paises de maior riqueza de espécies de insetos do mundo.
+
+- 73% das espécies registradas são insetos
+
+- A morfologia é a ciência que se desenvolveu para descrever toda essa diversidade
+
+- Possibilitando os cientistas classificarem biodiversidade.
+
+Na morfologia de insetos, vimos que:
+
+- Os insetos são organismos segmentados
+
+- A principal diferença do táxon dos insetos para os demais artropodes é:
+
+  - 03 pares de pernas
+
+  - Tagmose em cabeça, tórax, abdômem
+
+- Vimos a função da cabeça e as estruturas
+
+  - Classificação quanto a posição das peças bucais
+
+  - e tipos, lembram de algum?
+
+  - Tipos de antenas
+
+- Tórax funçã e estrutura
+
+- Abdômen função e estrutura
+
+- C
+
+Pergunta inicial:
+
+> *"O que precisamos observar para descrever cientificamente esse inseto?"*
+
+Anote as respostas no quadro.
+
+Então introduza a ideia:
+
+Morfologia é a descrição da forma e da estrutura de um organismo.
+
+Importância da morfologia
+
+13h40–14h00 \| Plano corporal — 20 min
+
+Apresente a tagmose dos insetos:
+
+Cabeça → Tórax → Abdome
+
+Utilize uma ilustração esquemática.
+
+Cabeça olhos compostos; ocelos; antenas; aparelho bucal. Tórax protórax; mesotórax; metatórax; pernas; asas. Abdome segmentos abdominais; espiráculos; estruturas terminais; estruturas reprodutivas.
+
+Um ponto importante é enfatizar:
+
+Os três pares de pernas estão associados ao tórax, e não ao abdome.
+
+14h00–14h15 \| Morfologia e função — 15 min
+
+Apresente fotografias de diferentes insetos e questione:
+
+"Por que esses insetos têm pernas tão diferentes?"
+
+Compare, por exemplo:
+
+Tipo de perna Modificação Função Ambulatória relativamente simples caminhar Saltatória fêmur aumentado saltar Raptorial fêmur/tíbia modificados capturar presas Fossorial pernas robustas escavar Natatória pernas modificadas nadar
+
+A ideia central:
+
+A diversidade morfológica está associada à diversidade funcional.
+
+14h15–14h20 \| Síntese — 5 min
+
+Faça três perguntas rápidas:
+
+Quais são os três tagmas? De onde surgem as pernas? Em quais regiões encontramos os principais órgãos sensoriais? Aula 2 — 14h20–15h10 Diversidade morfológica: antenas, peças bucais, asas e pernas
+
+Aqui eu incorporaria Microcosmos: Le peuple de l'herbe como recurso de observação.
+
+14h20–14h30 \| Revisão — 10 min
+
+Mostre novamente uma imagem de um inseto e peça aos estudantes para identificarem:
+
+Cabeça \| Tórax \| Abdome
+
+Depois:
+
+antena \| olho \| perna \| asa \| abdome
+
+14h30–14h50 \| Microcosmos — 20 min
+
+Apresente trechos selecionados do filme, preferencialmente cenas com grandes planos de insetos.
+
+A instrução aos alunos deve ser:
+
+"Não tentem identificar as espécies. Observem as estruturas."
+
+Cada estudante recebe uma pequena ficha:
+
+Organismo Estrutura Descrição Possível função
+
+Peça que anotem pelo menos 5 estruturas morfológicas observadas.
+
+14h50–15h05 \| Discussão — 15 min
+
+Escolha uma cena e congele a imagem.
+
+Pergunte:
+
+"Onde está a cabeça?"
+
+"Onde começa o tórax?"
+
+"Quantos pares de pernas existem?"
+
+"Que tipo de perna é essa?"
+
+"O que podemos inferir sobre a função dessa estrutura?"
+
+Depois faça o mesmo com:
+
+antenas; asas; aparelho bucal; olhos; abdome.
+
+Aqui vale explorar uma distinção importante:
+
+Caráter morfológico × função
+
+Por exemplo:
+
+"A perna é modificada."
+
+é uma observação morfológica.
+
+"A perna é modificada para saltar."
+
+é uma interpretação funcional.
+
+Essa distinção é muito útil para formar o olhar científico do estudante.
+
+15h05–15h10 \| Preparação para o laboratório — 5 min
+
+Explique:
+
+"Agora vamos procurar nos espécimes reais aquilo que acabamos de observar em escala ampliada."
+
+Divida os 6 estudantes em 3 duplas.
+
+Cada dupla receberá 2–3 espécimes representando morfologias contrastantes.
+
+Aula 3 — 15h10–16h00 Laboratório didático Reconhecimento e descrição da morfologia externa
+
+Aqui está a parte em que eu exploraria bastante o número reduzido de estudantes.
+
+Material
+
+Para 6 estudantes:
+
+6 lupas ou estereomicroscópios; 3 conjuntos de insetos; pinças; placas de Petri; alfinetes entomológicos; bandejas; papel/cartolina branca; régua ou escala milimétrica; etiquetas; fichas de identificação; modelos anatômicos, se disponíveis.
+
+Idealmente, os espécimes devem representar morfologias diferentes, por exemplo:
+
+Coleoptera; Orthoptera; Hymenoptera; Lepidoptera; Hemiptera; Diptera.
+
+Não é necessário que os alunos identifiquem a espécie.
+
+15h10–15h15 \| Orientação — 5 min
+
+Antes de entregar os espécimes, demonstre rapidamente como observar:
+
+vista dorsal; vista lateral; vista ventral; cabeça; tórax; abdome.
+
+E estabeleça uma regra:
+
+"Primeiro descrevam o que estão vendo. Só depois tentem identificar."
+
+15h15–15h35 \| Estação 1 — Plano corporal
+
+Cada dupla recebe um espécime.
+
+Tarefa
+
+Localizar e desenhar:
+
+Cabeça — Tórax — Abdome
+
+Depois identificar:
+
+olhos; antenas; aparelho bucal; protórax; mesotórax; metatórax; pernas; asas; abdome.
+
+Os estudantes devem rotular o desenho.
+
+15h35–15h50 \| Estação 2 — Apêndices
+
+As duplas trocam os espécimes.
+
+Agora a tarefa é procurar especializações morfológicas.
+
+Cada dupla deve responder:
+
+Antenas Qual o formato? São longas ou curtas? Quantos segmentos são perceptíveis? Há especialização evidente? Pernas São ambulatórias? Saltatórias? Raptoriais? Fossoriais? Natatórias? Asas Quantos pares? São membranosas? Há modificações? Existe alguma estrutura associada à proteção? 15h50–15h57 \| Desafio de identificação — 7 min
+
+Retire as etiquetas dos espécimes.
+
+Cada dupla recebe um espécime de outra dupla e deve produzir uma descrição morfológica curta, sem mencionar o nome do grupo.
+
+Por exemplo:
+
+"Inseto com corpo compacto, primeiro par de asas modificado em estruturas rígidas, segundo par membranoso, aparelho bucal mastigador..."
+
+A outra dupla deve tentar descobrir:
+
+"Que grupo é esse?"
+
+O objetivo não é testar taxonomia profundamente, mas demonstrar que caracteres morfológicos permitem reconhecer e comparar organismos.
+
+15h57–16h00 \| Fechamento — 3 min
+
+Faça uma última pergunta:
+
+"Se vocês encontrassem um inseto desconhecido amanhã, quais estruturas observariam primeiro?"
+
+Espere que apareça uma sequência semelhante a:
+
+1.  Plano corporal → 2. Cabeça → 3. Antenas/peças bucais → 4. Tórax → 5. Pernas → 6. Asas → 7. Abdome
+
+Finalize com:
+
+"A identificação começa com a observação dos caracteres."
+
+Produto da aula
+
+Eu pediria que cada dupla entregasse uma ficha morfológica de um espécime, contendo:
+
+1.  Desenho esquemático
+
+2.  Identificação dos tagmas
+
+3.  Identificação das principais estruturas
+
+4.  Descrição das antenas
+
+5.  Descrição das pernas
+
+6.  Descrição das asas
+
+7.  Tipo de aparelho bucal, quando possível
+
+8.  Uma hipótese sobre a função de uma especialização morfológica
+
+9.  Identificação taxonômica aproximada, se conseguirem.
+
+Avaliação
+
+Para essa aula, eu faria uma avaliação formativa, não uma prova.
+
+Critério Peso Reconhecimento dos tagmas 20% Reconhecimento das estruturas externas 25% Uso correto da terminologia 20% Capacidade de relacionar forma e função 20% Qualidade da observação/desenho 15% Total 100% Uma observação didática importante
+
+Como são apenas 6 estudantes, eu evitaria uma aula excessivamente expositiva. A grande vantagem de uma turma pequena é poder fazer algo próximo de uma aula de morfologia baseada em investigação:
+
+observar → descrever → comparar → formular hipótese funcional → identificar
+
+E o Microcosmos entra justamente como uma ponte entre a observação em escala cinematográfica e a observação científica do espécime real.
+
+Isso também prepara muito bem os estudantes para a sequência da disciplina: morfologia externa → identificação/classificação → diversidade dos principais grupos de Insecta.
